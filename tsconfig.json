@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "baseUrl": "./",
+    "outDir": "build",
+    "target": "es6",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "lib": ["esnext"],
+    "allowJs": true
+  },
+  "include": ["backend/**/*.ts"],
+  "exclude": ["./frontend"]
+}
