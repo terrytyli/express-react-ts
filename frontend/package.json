@@ -41,7 +41,7 @@
     "eslint-plugin-react-hooks": "^3.0.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.2",
-    "madge": "^3.8.0",
+    "madge": "^4.0.1",
     "typescript": "^3.8.3"
   },
   "husky": {
